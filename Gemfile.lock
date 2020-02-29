@@ -54,7 +54,7 @@ GEM
       method_source (~> 0.9.0)
     public_suffix (3.0.3)
     rack (2.0.6)
-    rake (11.3.0)
+    rake (13.0.1)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
@@ -93,7 +93,7 @@ DEPENDENCIES
   discourse_api!
   guard (~> 2.14)
   guard-rspec (~> 4.7)
-  rake (~> 11.1)
+  rake (~> 13.0)
   rb-inotify (~> 0.9)
   rspec (~> 3.4)
   simplecov (~> 0.11)
